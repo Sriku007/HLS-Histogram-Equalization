@@ -2,6 +2,8 @@
 Histogram equalization implementation on Vivado HLS.
 
 
+
+
 This project was done as a part of an online course on Udemy.
 
 Course: Video Processing with FPGA
